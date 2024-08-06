@@ -1,0 +1,5 @@
+{
+  "files": [],
+  "module": "node16", "moduleResolution": "node16",
+  "references": [{ "path": "./tsconfig.node.json"}, { "path": "./tsconfig.web.json"}],
+}
